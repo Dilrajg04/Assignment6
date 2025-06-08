@@ -2,18 +2,6 @@
 
 This is a simple desktop application built using C++ and the Qt framework for managing a warehouse inventory. It was created by Dilraj Grewal for Assignment 6.
 
-# How to launch the application
-
-Launch Qt Creator.
-
-Go to File → Open File or Project.
-
-Navigate to the project folder and select the CMakeLists.txt file.
-
-When prompted, choose a build kit (e.g., Desktop Qt 6.x GCC or MSVC).
-
-Click the green Run button (▶) to build and execute the application.
-
 # How to use the application
 
 - Add, find, remove items into inventory.
